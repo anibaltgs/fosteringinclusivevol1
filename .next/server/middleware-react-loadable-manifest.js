@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"components/website/ColorMatchingPuzzle.tsx -> framer-motion":{"id":161,"files":["static/chunks/161.863bfdba08f02f6b.js"]}}';
+self.__REACT_LOADABLE_MANIFEST="{\"components/website/ColorMatchingPuzzle.tsx -> framer-motion\":{\"id\":\"components/website/ColorMatchingPuzzle.tsx -> framer-motion\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_framer-motion_dist_es_index_mjs.js\"]}}"
