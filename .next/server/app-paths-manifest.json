@@ -1,4 +1,7 @@
 {
-  "/icon.ico/route": "app/icon.ico/route.js",
-  "/docs/history/page": "app/docs/history/page.js"
+  "/docs/page": "app/docs/page.js",
+  "/docs/history/page": "app/docs/history/page.js",
+  "/docs/neurodiversity/page": "app/docs/neurodiversity/page.js",
+  "/docs/practicas/page": "app/docs/practicas/page.js",
+  "/docs/andamiajes/page": "app/docs/andamiajes/page.js"
 }

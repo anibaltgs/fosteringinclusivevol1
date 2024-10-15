@@ -60,8 +60,7 @@ export default function Motion() {
               Insights and notes from a TGS Talk.
             </p>
           </div>
-          <Subtle3DCarousel />
-          <CarouselBasic />
+
           <div className='flex items-center space-x-4 py-6'>
             <Link href='/docs'>
               <Button>
